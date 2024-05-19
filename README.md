@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Calmon958
 - 👀 I’m interested in Software engineering and Cybersecurity
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on various projects based n Cybersecurity and coding in the fundamental languages.
+- 💞️ I’m looking to collaborate on various projects based on Cybersecurity and coding in the fundamental languages.
 - 📫 How to reach me: through email: wm453856@gmail.com
 
 <!---
