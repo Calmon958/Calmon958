@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Calmon958
-- 👀 I’m interested in Software engineering and Cybersecurity
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on various projects based on Cybersecurity and coding in the fundamental languages.
+- 👋 Hi, I’m Njuguna Wilfred
+- 👀 I’m interested in Software Development
+- 💞️ I’m open to collaborate in Software Development project.
 - 📫 How to reach me: through email: wm453856@gmail.com
 
 <!---
